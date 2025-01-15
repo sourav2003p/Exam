@@ -1,5 +1,4 @@
-public class Main {
-
+public class Pyramid {
   public static void main(String[] args) {
     int rows = 5, k = 0, count = 0, count1 = 0;
 
